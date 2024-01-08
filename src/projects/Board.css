@@ -1,0 +1,19 @@
+.box{
+    margin-left: 2em;
+    margin-top: 1.75em;
+    border: 5px solid blue;
+}
+.square{
+    padding: 2em;
+    background-color: #fff;
+    color: black;
+    font-weight: 800;
+}
+.game{
+    display: flex;
+}
+.status, .game-info{
+    margin-left: 2em;
+    margin-top: 1.75em;
+    font-weight: 700;
+}

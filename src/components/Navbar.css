@@ -1,0 +1,16 @@
+.colors button{
+    border-radius: 50%;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
+.yellow{
+    background-color: yellow;
+    color: white;
+}
+.green{
+    background-color: green;
+    color: white;
+}
