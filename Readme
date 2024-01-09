@@ -1,1 +1,16 @@
-Hello  
+# TextUtilis
+It is a utility app that allows you to manipulate your text in the way you want.
+
+It is my first React-based project. I have made this project while learning React.
+
+It provides various features that allow you to manipulate your text which are as follows:
+1. Converting your text to uppercase
+2. Converting your text to lowercase
+3. Clear the text
+4. Change the font family
+5. Remove unwanted spaces between words
+6. Reverse the text
+
+The website has a feature that enables you to enable Dark Mode on the website.
+
+Additionally, it gives you an alert whenever you perform any task on the website.
